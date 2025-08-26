@@ -10,18 +10,8 @@ It features a **light/dark theme toggle 🌙☀️**, **best score tracking 🏆
 - 🌙 **Dark/Light Theme Toggle**  
 - 🏆 **Best Score Tracking** (saved per session)  
 - 🔔 **Real-time Feedback** (too high, too low, won, or lost)  
-- 🎉 **High Score Celebration Badge**  
 - 📱 **Responsive & Mobile-Friendly UI**  
 - 🎨 **Professional UI/UX with Bootstrap Icons**  
-
----
-
-## 🚀 Demo (Screenshot)
-
-> Add your project screenshot here:  
-`/screenshots/game.png`
-
----
 
 ## 🛠️ Tech Stack
 
